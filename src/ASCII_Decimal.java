@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class p1 {
+public class ASCII_Decimal {
     public static void main(String[] args) {
        System.out.println("Enter String");
         Scanner in = new Scanner(System.in);

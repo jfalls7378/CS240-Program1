@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.imageio.ImageIO;
-public class p3 {
+public class image_to_pixel {
     public static String convert(Color color) {
         int red = color.getRed();
         int green = color.getGreen();

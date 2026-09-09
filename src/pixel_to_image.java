@@ -6,7 +6,7 @@ import java.nio.file.Path;
 import java.util.List;
 import javax.imageio.ImageIO;
 
-public class p4 {
+public class pixel_to_image {
     public static Color convert(String color) {
         if  (color.equals("R")) {
             return new Color(237, 28, 36);
